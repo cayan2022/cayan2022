@@ -1,4 +1,5 @@
 <img src="https://cayan.co/img/footer/footer_mask.svg" style="width: 100%; height: 500px; object-fit: cover; object-position: bottom;" alt="misara hammed" />
+<img src="https://cayan.co/img/logo/logo.svg" style="width: 100%; height: 200px; object-fit: cover; object-position: bottom;" alt="misara hammed" />
 <h1 align="center">Hi 👋, I'm Cayan</h1>
 <h3 align="center">for your business to flourish</h3>
 
