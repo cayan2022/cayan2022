@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cayan2022" alt="cayan2022" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/cayan_c" target="blank"><img src="https://img.shields.io/twitter/follow/cayan_c?logo=twitter&style=for-the-badge" alt="cayan_c" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Cayan_Co" target="blank"><img src="https://img.shields.io/twitter/follow/Cayan_Co?logo=twitter&style=for-the-badge" alt="Cayan_Co" /></a> </p>
 
 - 🔭 We help you build your digital entity, advertising campaigns [https://cayan.co](https://cayan.co)
 
