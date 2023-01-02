@@ -39,5 +39,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cayan2022&show_icons=true&locale=en" alt="cayan2022" /></p>
 
 <a href="https://cayan.co">
-  <img src="https://cayan.co/img/logo/logo.svg" style="width: 100%; height: 500px; object-fit: cover; object-position: bottom;" alt="misara hammed" />
+  <img src="https://cayan.co/img/logo/logo.svg" style="width: 100%; height: 200px; object-fit: contain; object-position: bottom;" alt="misara hammed" />
 </a>
