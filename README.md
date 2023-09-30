@@ -5,6 +5,8 @@
 
 <h3 align="center">for your business to flourish</h3>
 
+<img src="https://cayan.co/img/logo/logo.svg" style="width: 300px; height: 300px; object-fit: contain; object-position: center;" alt="misara hammed" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cayan2022&label=Profile%20views&color=0e75b6&style=flat" alt="cayan2022" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cayan2022" alt="cayan2022" /></a> </p>
